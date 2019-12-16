@@ -1,0 +1,19 @@
+$ pkg update && pkg upgrade -y
+
+$ pkg install python2 -y
+
+$ pkg install python2-dev
+
+$ pip2 install mechanize
+
+$ pkg install git
+
+$ git clone https://github.com/IqbalzNoobs/iqbalz_bf
+
+$ cd iqbalz_bf
+
+$ chmod +x brute.py
+
+$ pkg install nano
+
+$ python2 brute.py
